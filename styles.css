@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #003087;
+    background-color: #003D4C;
     padding: 20px 0;
     text-align: center;
 }
@@ -49,14 +49,14 @@ h1 {
 h2 {
     font-size: 28px;
     font-weight: 600;
-    color: #003087;
+    color: #003D4C;
     margin: 40px 0 20px;
 }
 
 h3 {
     font-size: 24px;
     font-weight: 600;
-    color: #003087;
+    color: #003D4C;
     margin: 30px 0 15px;
 }
 
@@ -92,7 +92,7 @@ p {
 
 .button {
     display: inline-block;
-    background-color: #D81E05;
+    background-color: #55101B;
     color: white;
     padding: 12px 24px;
     border: none;
@@ -106,14 +106,14 @@ p {
 }
 
 .button:hover {
-    background-color: #B31704;
+    background-color: #3A0B12;
 }
 
 .chat-button {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background-color: #D81E05;
+    background-color: #55101B;
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -126,7 +126,7 @@ p {
 }
 
 .chat-button:hover {
-    background-color: #B31704;
+    background-color: #3A0B12;
     transform: scale(1.05);
 }
 
@@ -151,7 +151,7 @@ p {
 }
 
 .chat-header {
-    background-color: #003087;
+    background-color: #003D4C;
     color: white;
     padding: 12px;
     font-size: 16px;
@@ -175,7 +175,7 @@ p {
 }
 
 .chat-message.user {
-    background-color: #003087;
+    background-color: #003D4C;
     color: white;
     margin-left: auto;
     text-align: right;
@@ -213,7 +213,7 @@ textarea:focus {
 }
 
 .chat-input button {
-    background-color: #D81E05;
+    background-color: #55101B;
     color: white;
     padding: 10px 16px;
     border: none;
@@ -226,11 +226,11 @@ textarea:focus {
 }
 
 .chat-input button:hover {
-    background-color: #B31704;
+    background-color: #3A0B12;
 }
 
 .error {
-    color: #B31704;
+    color: #3A0B12;
     font-size: 12px;
     text-align: center;
     padding: 5px;
